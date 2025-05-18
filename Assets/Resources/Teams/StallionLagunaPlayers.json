@@ -1,0 +1,230 @@
+{
+    "teamName": "Stallion Laguna FC",
+    "players": [
+      {
+        "playerName": "Alfredo Cortez",
+        "age": 26,
+        "position": "Goalkeeper",
+        "nationality": "United States",
+        "marketValue": 100000,
+        "rating": 60
+      },
+      {
+        "playerName": "Hayeson Pepito",
+        "age": 30,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 60
+      },
+      {
+        "playerName": "Vicente Valdez III",
+        "age": 23,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 60
+      },
+      {
+        "playerName": "Miguel de Mesa",
+        "age": 22,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Matthew Nierras",
+        "age": 32,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Hayato Kame",
+        "age": 34,
+        "position": "Defender",
+        "nationality": "Japan",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Charles Pickering",
+        "age": 23,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Gabriel Silva",
+        "age": 29,
+        "position": "Defender",
+        "nationality": "Brazil",
+        "marketValue": 100000,
+        "rating": 60
+      },
+      {
+        "playerName": "Angelo Marasigan",
+        "age": 33,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Paolo Pavone",
+        "age": 25,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Ken Pryde",
+        "age": 23,
+        "position": "Defender",
+        "nationality": "United States",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Abraham Placito",
+        "age": 30,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Ezequiel Cirigliano",
+        "age": 33,
+        "position": "Midfielder",
+        "nationality": "Argentina",
+        "marketValue": 100000,
+        "rating": 60
+      },
+      {
+        "playerName": "Ruben Doctora",
+        "age": 38,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 60
+      },
+      {
+        "playerName": "Spencer Galasa",
+        "age": 27,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Julian Stifano",
+        "age": 26,
+        "position": "Midfielder",
+        "nationality": "Argentina",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Jesus Salazar",
+        "age": 23,
+        "position": "Midfielder",
+        "nationality": "United States",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Leonardo Nogueira",
+        "age": 28,
+        "position": "Midfielder",
+        "nationality": "Brazil",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Jo Bedia",
+        "age": 30,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Christian Schaffner",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Jacob Peña",
+        "age": 22,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Aoi Isami",
+        "age": 29,
+        "position": "Midfielder",
+        "nationality": "Japan",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Théo",
+        "age": 24,
+        "position": "Forward",
+        "nationality": "Brazil",
+        "marketValue": 100000,
+        "rating": 60
+      },
+      {
+        "playerName": "Griffin McDaniel",
+        "age": 24,
+        "position": "Forward",
+        "nationality": "United States",
+        "marketValue": 100000,
+        "rating": 60
+      },
+      {
+        "playerName": "Cristián Ivanobski",
+        "age": 35,
+        "position": "Forward",
+        "nationality": "Argentina",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Juan Trujillo",
+        "age": 25,
+        "position": "Forward",
+        "nationality": "Colombia",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Junior Ngong Sam",
+        "age": 27,
+        "position": "Forward",
+        "nationality": "Cameroon",
+        "marketValue": 50000,
+        "rating": 60
+      },
+      {
+        "playerName": "Magson Dourado",
+        "age": 33,
+        "position": "Forward",
+        "nationality": "Brazil",
+        "marketValue": 50000,
+        "rating": 60
+      }
+    ]
+  }
+  

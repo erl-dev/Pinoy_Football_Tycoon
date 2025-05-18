@@ -1,0 +1,197 @@
+{
+  "teamName": "Kaya FC–Iloilo",
+  "players": [
+    {
+      "playerName": "Patrick Deyto",
+      "age": 34,
+      "position": "Goalkeeper",
+      "nationality": "Philippines",
+      "marketValue": 100000,
+      "rating": 0
+    },
+    {
+      "playerName": "Alfredo Cortez",
+      "age": 26,
+      "position": "Goalkeeper",
+      "nationality": "U.S.A.",
+      "marketValue": 75000,
+      "rating": 0
+    },
+    {
+      "playerName": "Nathan Bata",
+      "age": 22,
+      "position": "Goalkeeper",
+      "nationality": "Philippines",
+      "marketValue": 50000,
+      "rating": 0
+    },
+    {
+      "playerName": "Akito Saito",
+      "age": 25,
+      "position": "Defender",
+      "nationality": "Japan",
+      "marketValue": 200000,
+      "rating": 0
+    },
+    {
+      "playerName": "Simone Rota",
+      "age": 40,
+      "position": "Defender",
+      "nationality": "Philippines/Italy",
+      "marketValue": 25000,
+      "rating": 0
+    },
+    {
+      "playerName": "Marco Casambre",
+      "age": 26,
+      "position": "Defender",
+      "nationality": "Philippines",
+      "marketValue": 125000,
+      "rating": 0
+    },
+    {
+      "playerName": "Fitch Arboleda",
+      "age": 32,
+      "position": "Defender",
+      "nationality": "Philippines",
+      "marketValue": 125000,
+      "rating": 0
+    },
+    {
+      "playerName": "Konaté Bandiougou",
+      "age": 20,
+      "position": "Defender",
+      "nationality": "Mali",
+      "marketValue": 50000,
+      "rating": 0
+    },
+    {
+      "playerName": "Audie Menzi",
+      "age": 30,
+      "position": "Defender",
+      "nationality": "Philippines",
+      "marketValue": 150000,
+      "rating": 0
+    },
+    {
+      "playerName": "Mar Diano",
+      "age": 27,
+      "position": "Defender",
+      "nationality": "Philippines",
+      "marketValue": 125000,
+      "rating": 0
+    },
+    {
+      "playerName": "Kaishu Yamazaki",
+      "age": 27,
+      "position": "Midfielder",
+      "nationality": "Japan",
+      "marketValue": 200000,
+      "rating": 0
+    },
+    {
+      "playerName": "Mark Swainston",
+      "age": 25,
+      "position": "Midfielder",
+      "nationality": "Philippines/England",
+      "marketValue": 125000,
+      "rating": 0
+    },
+    {
+      "playerName": "Eric Esso",
+      "age": 30,
+      "position": "Midfielder",
+      "nationality": "Ghana",
+      "marketValue": 125000,
+      "rating": 0
+    },
+    {
+      "playerName": "Gavin Muens",
+      "age": 20,
+      "position": "Midfielder",
+      "nationality": "Philippines/U.S.A.",
+      "marketValue": 50000,
+      "rating": 0
+    },
+    {
+      "playerName": "Marwin Angeles",
+      "age": 34,
+      "position": "Midfielder",
+      "nationality": "Philippines/Italy",
+      "marketValue": 50000,
+      "rating": 0
+    },
+    {
+      "playerName": "Julian Romero",
+      "age": 21,
+      "position": "Midfielder",
+      "nationality": "Philippines",
+      "marketValue": 0,
+      "rating": 0
+    },
+    {
+      "playerName": "Martini Rey",
+      "age": 25,
+      "position": "Midfielder",
+      "nationality": "Philippines",
+      "marketValue": 100000,
+      "rating": 0
+    },
+    {
+      "playerName": "Shuto Komaki",
+      "age": 24,
+      "position": "Forward",
+      "nationality": "Japan",
+      "marketValue": 200000,
+      "rating": 0
+    },
+    {
+      "playerName": "Pocholo Bugas",
+      "age": 23,
+      "position": "Forward",
+      "nationality": "Philippines",
+      "marketValue": 100000,
+      "rating": 0
+    },
+    {
+      "playerName": "Jesus Melliza",
+      "age": 33,
+      "position": "Forward",
+      "nationality": "Philippines",
+      "marketValue": 125000,
+      "rating": 0
+    },
+    {
+      "playerName": "Sherwin Basindanan",
+      "age": 26,
+      "position": "Forward",
+      "nationality": "Philippines",
+      "marketValue": 50000,
+      "rating": 0
+    },
+    {
+      "playerName": "Lucas del Rosario",
+      "age": 25,
+      "position": "Forward",
+      "nationality": "U.S.A./Philippines",
+      "marketValue": 125000,
+      "rating": 0
+    },
+    {
+      "playerName": "Jovin Bedic",
+      "age": 34,
+      "position": "Forward",
+      "nationality": "Philippines",
+      "marketValue": 50000,
+      "rating": 0
+    },
+    {
+      "playerName": "Ernest Barfo",
+      "age": 32,
+      "position": "Forward",
+      "nationality": "Ghana",
+      "marketValue": 0,
+      "rating": 0
+    }
+  ]
+}

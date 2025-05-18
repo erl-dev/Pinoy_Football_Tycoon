@@ -1,0 +1,139 @@
+{
+    "teamName": "Mendiola FC 1991",
+    "players": [
+      {
+        "playerName": "Joshua Jalog",
+        "age": 23,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 10000
+      },
+      {
+        "playerName": "Angelo Simtoco",
+        "age": 24,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Edison Castro",
+        "age": 24,
+        "position": "Goalkeeper",
+        "nationality": "United States",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Marlle Habila",
+        "age": 29,
+        "position": "Centre-Back",
+        "nationality": "Ghana",
+        "marketValue": 100000
+      },
+      {
+        "playerName": "Nick Fuzesi",
+        "age": 24,
+        "position": "Centre-Back",
+        "nationality": "Canada",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Behnam Habibi",
+        "age": 35,
+        "position": "Centre-Back",
+        "nationality": "Iran",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Yuta Tochigi",
+        "age": 22,
+        "position": "Centre-Back",
+        "nationality": "Japan",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Yuan Reña",
+        "age": 22,
+        "position": "Centre-Back",
+        "nationality": "Philippines",
+        "marketValue": 25000
+      },
+      {
+        "playerName": "Gustavo Silva",
+        "age": 36,
+        "position": "Centre-Back",
+        "nationality": "Brazil",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Nathan Sablan",
+        "age": 31,
+        "position": "Centre-Back",
+        "nationality": "Guam",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Gideon Obetta",
+        "age": 19,
+        "position": "Centre-Back",
+        "nationality": "Nigeria",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Ahmed Hassan Al-Arqan",
+        "age": 21,
+        "position": "Centre-Back",
+        "nationality": "Palestine",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Gansmari Antipuesto",
+        "age": 27,
+        "position": "Left-Back",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Elljhone Rasonable",
+        "age": 22,
+        "position": "Left-Back",
+        "nationality": "Philippines",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Amir Aningalan",
+        "age": 20,
+        "position": "Right-Back",
+        "nationality": "Philippines",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Kieth Edulan",
+        "age": 23,
+        "position": "Right-Back",
+        "nationality": "Philippines",
+        "marketValue": 0
+      },
+      {
+        "playerName": "David Yeboah",
+        "age": 25,
+        "position": "Right-Back",
+        "nationality": "Ghana",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Bryll Espina",
+        "age": 0,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Sylver Pormento",
+        "age": 17,
+        "position": "Defensive Midfield",
+        "nationality": "Philippines",
+        "marketValue": 0
+      }
+    ]
+  }
+  

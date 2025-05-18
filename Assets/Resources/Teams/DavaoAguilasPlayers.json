@@ -1,0 +1,248 @@
+{
+    "teamName": "Davao Aguilas FC",
+    "players": [
+      {
+        "playerName": "Dini Ouattara",
+        "age": 29,
+        "position": "Goalkeeper",
+        "nationality": "Ivory Coast",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Jhon Betanio",
+        "age": 24,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Miguel Abada",
+        "age": 25,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Miggy Clarino",
+        "age": 28,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Salvador Pliego",
+        "age": 24,
+        "position": "Defender",
+        "nationality": "Mexico/U.S.A.",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Lukman Hussein",
+        "age": 28,
+        "position": "Defender",
+        "nationality": "Nigeria",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Reynald Villareal",
+        "age": 36,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Mantvydas Tikstinskis",
+        "age": 28,
+        "position": "Defender",
+        "nationality": "Lithuania",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Nestor Mbessa",
+        "age": 22,
+        "position": "Defender",
+        "nationality": "Senegal",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Jayvee Kallukaran",
+        "age": 24,
+        "position": "Defender",
+        "nationality": "Philippines/India",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Richard Talaroc",
+        "age": 29,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Romel Catarinin",
+        "age": 26,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Jun-su Mun",
+        "age": 26,
+        "position": "Defender",
+        "nationality": "South Korea",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Michael Menzi",
+        "age": 31,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Ojay Clarino",
+        "age": 34,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Syendio Fernanda",
+        "age": 19,
+        "position": "Defender",
+        "nationality": "Indonesia",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Issa Diallo",
+        "age": 24,
+        "position": "Defender",
+        "nationality": "Mali",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Jhomaray Sapal",
+        "age": 25,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Dale Reas Do",
+        "age": 22,
+        "position": "Midfielder",
+        "nationality": "Philippines/Canada",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Yohann Fofana",
+        "age": 25,
+        "position": "Midfielder",
+        "nationality": "Cote d'Ivoire",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Paolo Bugas",
+        "age": 30,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Victor Cabral",
+        "age": 30,
+        "position": "Midfielder",
+        "nationality": "Brazil",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Anton Ganas",
+        "age": 21,
+        "position": "Midfielder",
+        "nationality": "Philippines/New Zealand",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Uriel Dalapo",
+        "age": 20,
+        "position": "Forward",
+        "nationality": "Philippines/Spain",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Troy Limbo",
+        "age": 26,
+        "position": "Forward",
+        "nationality": "Philippines",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Kart Talaroc",
+        "age": 24,
+        "position": "Forward",
+        "nationality": "Philippines",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Nicolas Ferrer",
+        "age": 30,
+        "position": "Forward",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Gabriel Costa",
+        "age": 27,
+        "position": "Forward",
+        "nationality": "Brazil",
+        "marketValue": 150000,
+        "rating": 0
+      },
+      {
+        "playerName": "Robert Lopez Mendy",
+        "age": 38,
+        "position": "Forward",
+        "nationality": "Senegal",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Rendon Cieloy",
+        "age": 25,
+        "position": "Forward",
+        "nationality": "Philippines",
+        "marketValue": 10000,
+        "rating": 0
+      }
+      
+      
+    ]
+  }
+  

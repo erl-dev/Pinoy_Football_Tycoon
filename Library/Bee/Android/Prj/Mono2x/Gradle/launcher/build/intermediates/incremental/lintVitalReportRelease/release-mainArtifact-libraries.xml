@@ -1,0 +1,32 @@
+<libraries>
+  <library
+      name="D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\cc97c699e744712ef9ab69278046003e\transformed\out\jars\classes.jar;D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\cc97c699e744712ef9ab69278046003e\transformed\out\jars\libs\R.jar;D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\cc97c699e744712ef9ab69278046003e\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\cc97c699e744712ef9ab69278046003e\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:mobilenotifications.androidlib::release"
+      jars="D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\d2173ae8c7acd5b4d8461444508ea88d\transformed\out\jars\classes.jar;D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\d2173ae8c7acd5b4d8461444508ea88d\transformed\out\jars\libs\R.jar"
+      resolved="Gradle.unityLibrary:mobilenotifications.androidlib:unspecified"
+      folder="D:\Elden\Games\Pinoy Football Tycoon\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\.transforms\d2173ae8c7acd5b4d8461444508ea88d\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

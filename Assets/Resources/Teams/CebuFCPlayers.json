@@ -1,0 +1,238 @@
+{
+    "teamName": "Dynamic Herb Cebu FC",
+    "players": [
+      {
+        "playerName": "Jun Badelic",
+        "age": 30,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Ace Villanueva",
+        "age": 29,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Joseph Ceniza",
+        "age": 25,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Gabriel Silva",
+        "age": 29,
+        "position": "Defender",
+        "nationality": "Brazil",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Jaime Rosquillo",
+        "age": 22,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Charles Dabao III",
+        "age": 27,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Göktuğ Demiroğlu",
+        "age": 25,
+        "position": "Defender",
+        "nationality": "Turkey",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Erich Orale",
+        "age": 25,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Elijah Liao",
+        "age": 25,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Baris Tasci",
+        "age": 26,
+        "position": "Defender",
+        "nationality": "Philippines/Turkey",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Kamil Amirul",
+        "age": 21,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Roberto Corsame",
+        "age": 28,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Paolo Pavone",
+        "age": 32,
+        "position": "Defender",
+        "nationality": "Philippines/U.S.A.",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Rhino Goutier",
+        "age": 21,
+        "position": "Midfielder",
+        "nationality": "Philippines/Netherlands",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Marius Koré",
+        "age": 25,
+        "position": "Midfielder",
+        "nationality": "Côte d'Ivoire",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Ryoo Togashi",
+        "age": 27,
+        "position": "Midfielder",
+        "nationality": "Japan",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Daniel Gadia",
+        "age": 29,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Lorenzo Genco",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Leo Maquiling",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Joshua Broce",
+        "age": 25,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "JB Borlongan",
+        "age": 26,
+        "position": "Forward",
+        "nationality": "Philippines",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Kainoa Bailey",
+        "age": 29,
+        "position": "Forward",
+        "nationality": "Philippines/U.S.A.",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Magson Dourado",
+        "age": 33,
+        "position": "Forward",
+        "nationality": "Brazil",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Gutho Mijland",
+        "age": 28,
+        "position": "Forward",
+        "nationality": "Netherlands/Suriname",
+        "marketValue": 200000,
+        "rating": 0
+      },
+      {
+        "playerName": "Rintaro Hama",
+        "age": 25,
+        "position": "Forward",
+        "nationality": "Japan",
+        "marketValue": 150000,
+        "rating": 0
+      },  
+      {
+        "playerName": "Baris Tasci",
+        "age": 25,
+        "position": "Central Midfield",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Devrim Yanik",
+        "age": 20,
+        "position": "Central Midfield",
+        "nationality": "Turkey",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Abou Sy",
+        "age": 29,
+        "position": "Forward",
+        "nationality": "Senegal",
+        "marketValue": 175000,
+        "rating": 0
+      },
+      {
+        "playerName": "Hiromasa Ishikawa",
+        "age": 22,
+        "position": "Forward",
+        "nationality": "Japan",
+        "marketValue": 50000,
+        "rating": 0
+      }      
+    ]
+  }
+  

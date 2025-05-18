@@ -1,0 +1,160 @@
+{
+    "teamName": "Loyola FC",
+    "players": [
+      {
+        "playerName": "Javier Fernando Coscolluela",
+        "age": 24,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Mohammed Ali",
+        "age": 24,
+        "position": "Goalkeeper",
+        "nationality": "Ghana",
+        "marketValue": 10000
+      },
+      {
+        "playerName": "Isaac Annan",
+        "age": 24,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 10000
+      },
+      {
+        "playerName": "Bernardo Closa III",
+        "age": 24,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Alassane Wade",
+        "age": 24,
+        "position": "Defender",
+        "nationality": "Senegal",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Theodore Uriah Travis",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Sungmin Kim",
+        "age": 27,
+        "position": "Midfielder",
+        "nationality": "South Korea",
+        "marketValue": 10000
+      },
+      {
+        "playerName": "Charlie Yancy Beaton",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Jorrel Aristoreñas",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Ousmane Sidibe",
+        "age": 39,
+        "position": "Forward",
+        "nationality": "Guinea",
+        "marketValue": 10000
+      },
+      {
+        "playerName": "Jayvee Kallukaran",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Takaya Harada",
+        "age": 27,
+        "position": "Midfielder",
+        "nationality": "Japan",
+        "marketValue": 10000
+      },
+      {
+        "playerName": "Marco Cauyong",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Dyango Edward Echter",
+        "age": 17,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 25000
+      },
+      {
+        "playerName": "John Emmanuel Logarta",
+        "age": 24,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "David Asare",
+        "age": 24,
+        "position": "Defender",
+        "nationality": "Cameroon",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Emmanuel Boris Kante",
+        "age": 24,
+        "position": "Defender",
+        "nationality": "Cameroon",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Vincent Aron Saludo",
+        "age": 24,
+        "position": "Forward",
+        "nationality": "Philippines",
+        "marketValue": 10000
+      },
+      {
+        "playerName": "Rodmel Mari Lapitan",
+        "age": 24,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Ian Chua",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Mauro John Acot",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "William Michael Winter",
+        "age": 24,
+        "position": "Forward",
+        "nationality": "Cameroon",
+        "marketValue": 50000
+      }
+    ]
+  }
+  

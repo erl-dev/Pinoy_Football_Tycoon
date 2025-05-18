@@ -1,0 +1,104 @@
+{
+    "teamName": "Maharlika Taguig FC",
+    "players": [
+      {
+        "playerName": "Henri Bandeken",
+        "age": 35,
+        "position": "Goalkeeper",
+        "nationality": "Cameroon",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Javier Fernando Coscolluela",
+        "age": 28,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Miggy Clarino",
+        "age": 28,
+        "position": "Centre-Back",
+        "nationality": "Philippines",
+        "marketValue": 25000
+      },
+      {
+        "playerName": "David Basa",
+        "age": 36,
+        "position": "Centre-Back",
+        "nationality": "Philippines",
+        "marketValue": 20000
+      },
+      {
+        "playerName": "Ian Clarino",
+        "age": 29,
+        "position": "Centre-Back",
+        "nationality": "Philippines",
+        "marketValue": 20000
+      },
+      {
+        "playerName": "Ousman Jeng",
+        "age": 29,
+        "position": "Centre-Back",
+        "nationality": "Gambia",
+        "marketValue": 20000
+      },
+      {
+        "playerName": "Ojay Clarino",
+        "age": 34,
+        "position": "Right-Back",
+        "nationality": "Philippines",
+        "marketValue": 20000
+      },
+      {
+        "playerName": "Michael Menzi",
+        "age": 31,
+        "position": "Right-Back",
+        "nationality": "Philippines",
+        "marketValue": 20000
+      },
+      {
+        "playerName": "Ryan Fermin",
+        "age": 28,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 20000
+      },
+      {
+        "playerName": "Seong-min Kim",
+        "age": 38,
+        "position": "Defensive Midfield",
+        "nationality": "South Korea",
+        "marketValue": 20000
+      },
+      {
+        "playerName": "Brandon Zambrano",
+        "age": 29,
+        "position": "Central Midfield",
+        "nationality": "United States",
+        "marketValue": 75000
+      },
+      {
+        "playerName": "Diego Aspiras",
+        "age": 21,
+        "position": "Defensive Midfield",
+        "nationality": "Philippines",
+        "marketValue": 100000
+      },
+      {
+        "playerName": "Darlton Digha",
+        "age": 27,
+        "position": "Left Winger",
+        "nationality": "Cameroon",
+        "marketValue": 100000
+      },
+      {
+        "playerName": "Kenry Balobo",
+        "age": 26,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      }
+    ]
+  }
+  

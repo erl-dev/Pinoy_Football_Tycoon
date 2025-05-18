@@ -1,0 +1,69 @@
+{
+    "teamName": "PFF Youth National Team",
+    "players": [
+      {
+        "playerName": "Julian Schwarzer",
+        "age": 24,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 75000
+      },
+      {
+        "playerName": "Jarvey Gayoso",
+        "age": 27,
+        "position": "Forward",
+        "nationality": "Philippines",
+        "marketValue": 100000
+      },
+      {
+        "playerName": "Dennis Chung",
+        "age": 25,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 85000
+      },
+      {
+        "playerName": "Mar Diano",
+        "age": 26,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 80000
+      },
+      {
+        "playerName": "Christian Rontini",
+        "age": 26,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 80000
+      },
+      {
+        "playerName": "Stephan Schrock",
+        "age": 38,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Chester Pabualan",
+        "age": 25,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 70000
+      },
+      {
+        "playerName": "Andres Aldeguer",
+        "age": 24,
+        "position": "Forward",
+        "nationality": "Philippines",
+        "marketValue": 65000
+      },
+      {
+        "playerName": "Dominic Tom",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 60000
+      }
+    ]
+  }
+  

@@ -1,0 +1,188 @@
+{
+    "teamName": "Manila Digger FC",
+    "players": [
+      {
+        "playerName": "Johnny Wesley",
+        "age": 27,
+        "position": "Goalkeeper",
+        "nationality": "Brazil",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Michael Asong",
+        "age": 26,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 25000
+      },
+      {
+        "playerName": "Nelson Gasic",
+        "age": 31,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 25000
+      },
+      {
+        "playerName": "Aries Palabrica",
+        "age": 21,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 10000
+      },
+      {
+        "playerName": "Modou Joof",
+        "age": 22,
+        "position": "Centre-Back",
+        "nationality": "Gambia",
+        "marketValue": 150000
+      },
+      {
+        "playerName": "Jordan Jarvis",
+        "age": 26,
+        "position": "Centre-Back",
+        "nationality": "Philippines",
+        "marketValue": 125000
+      },
+      {
+        "playerName": "Johnmar Barsanilla",
+        "age": 23,
+        "position": "Centre-Back",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Daniel Ashley",
+        "age": 31,
+        "position": "Centre-Back",
+        "nationality": "Ghana",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Jovan Marfiga",
+        "age": 25,
+        "position": "Centre-Back",
+        "nationality": "Philippines",
+        "marketValue": 25000
+      },
+      {
+        "playerName": "Dean Ebarle",
+        "age": 26,
+        "position": "Left-Back",
+        "nationality": "Philippines",
+        "marketValue": 75000
+      },
+      {
+        "playerName": "Jimson Crestal",
+        "age": 25,
+        "position": "Left-Back",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Giap Bongolan",
+        "age": 23,
+        "position": "Left-Back",
+        "nationality": "Philippines",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Ziggy Taningco",
+        "age": 20,
+        "position": "Right-Back",
+        "nationality": "Philippines",
+        "marketValue": 125000
+      },
+      {
+        "playerName": "Darwin Regala",
+        "age": 31,
+        "position": "Right-Back",
+        "nationality": "Philippines",
+        "marketValue": 50000
+      },
+      {
+        "playerName": "Dylan De Bruycker",
+        "age": 27,
+        "position": "Defensive Midfield",
+        "nationality": "Belgium",
+        "marketValue": 100000
+      },
+      {
+        "playerName": "Shirmar Felongco",
+        "age": 31,
+        "position": "Defensive Midfield",
+        "nationality": "Philippines",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Ifeanyi Ugwu",
+        "age": 31,
+        "position": "Defensive Midfield",
+        "nationality": "Nigeria",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Eric Manlapas",
+        "age": 26,
+        "position": "Defensive Midfield",
+        "nationality": "Philippines",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Sang-cheon Jeon",
+        "age": 24,
+        "position": "Central Midfield",
+        "nationality": "South Korea",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Zion Jarvis",
+        "age": 23,
+        "position": "Central Midfield",
+        "nationality": "Philippines",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Kintaro Miyagi",
+        "age": 26,
+        "position": "Centre-Forward",
+        "nationality": "Japan",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Robert Gingichashvili",
+        "age": 25,
+        "position": "Left Winger",
+        "nationality": "Georgia",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Salifu Jatta",
+        "age": 27,
+        "position": "Right Winger",
+        "nationality": "Ghana",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Jeon Sang-cheon",
+        "age": 24,
+        "position": "Central Midfield",
+        "nationality": "South Korea",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Yussif Mubarik",
+        "age": 27,
+        "position": "Centre-Back",
+        "nationality": "Ghana",
+        "marketValue": 0
+      },
+      {
+        "playerName": "Shin Min-ki",
+        "age": 25,
+        "position": "Defensive Midfield",
+        "nationality": "South Korea",
+        "marketValue": 0
+      }
+    ]
+  }
+  
