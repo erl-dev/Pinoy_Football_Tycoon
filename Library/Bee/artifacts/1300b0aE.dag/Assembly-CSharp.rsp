@@ -375,6 +375,7 @@
 "Assets/Scripts/MatchResultUI.cs"
 "Assets/Scripts/MultiTeamDatabaseLoader.cs"
 "Assets/Scripts/PlayerData.cs"
+"Assets/Scripts/PlayerManager.cs"
 "Assets/Scripts/ScheduleManager.cs"
 "Assets/Scripts/ScheduleUIManager.cs"
 "Assets/Scripts/SwipeMenu.cs"

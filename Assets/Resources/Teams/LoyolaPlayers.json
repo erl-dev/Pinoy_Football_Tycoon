@@ -2,158 +2,188 @@
     "teamName": "Loyola FC",
     "players": [
       {
-        "playerName": "Javier Fernando Coscolluela",
+        "playerName": "Jessie Semblante",
+        "age": 25,
+        "position": "Goalkeeper",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Shane Salino",
         "age": 24,
         "position": "Goalkeeper",
         "nationality": "Philippines",
-        "marketValue": 50000
+        "marketValue": 10000,
+        "rating": 0
       },
       {
-        "playerName": "Mohammed Ali",
-        "age": 24,
-        "position": "Goalkeeper",
-        "nationality": "Ghana",
-        "marketValue": 10000
-      },
-      {
-        "playerName": "Isaac Annan",
-        "age": 24,
-        "position": "Goalkeeper",
-        "nationality": "Philippines",
-        "marketValue": 10000
-      },
-      {
-        "playerName": "Bernardo Closa III",
-        "age": 24,
-        "position": "Defender",
-        "nationality": "Philippines",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Alassane Wade",
-        "age": 24,
-        "position": "Defender",
-        "nationality": "Senegal",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Theodore Uriah Travis",
-        "age": 24,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Sungmin Kim",
+        "playerName": "Natsu Okamoto",
         "age": 27,
-        "position": "Midfielder",
-        "nationality": "South Korea",
-        "marketValue": 10000
-      },
-      {
-        "playerName": "Charlie Yancy Beaton",
-        "age": 24,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Jorrel Aristoreñas",
-        "age": 24,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Ousmane Sidibe",
-        "age": 39,
-        "position": "Forward",
-        "nationality": "Guinea",
-        "marketValue": 10000
-      },
-      {
-        "playerName": "Jayvee Kallukaran",
-        "age": 24,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Takaya Harada",
-        "age": 27,
-        "position": "Midfielder",
+        "position": "Goalkeeper",
         "nationality": "Japan",
-        "marketValue": 10000
+        "marketValue": 0,
+        "rating": 0
       },
       {
-        "playerName": "Marco Cauyong",
+        "playerName": "Filip Andersen",
+        "age": 22,
+        "position": "Defender",
+        "nationality": "Mongolia/Defender",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Pete Forrosuelo",
+        "age": 25,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Dyango Echter",
+        "age": 18,
+        "position": "Defender",
+        "nationality": "Philippines/Netherlands",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "John Clyde Vitualla",
+        "age": 25,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Eugene Arriola",
+        "age": 23,
+        "position": "Defender",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Leon Morimoto",
+        "age": 23,
+        "position": "Defender",
+        "nationality": "Guam/Philippines",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Aaron Vasquez",
+        "age": 23,
+        "position": "Defender",
+        "nationality": "Canada/Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Djumaney Burnet",
+        "age": 24,
+        "position": "Midfielder",
+        "nationality": "Netherlands/Curacao",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Macky Tobias",
+        "age": 25,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Anderson Pinto",
+        "age": 31,
+        "position": "Midfielder",
+        "nationality": "Portugal",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Ivan Ouano",
+        "age": 25,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Paolo Gonzales",
+        "age": 30,
+        "position": "Midfielder",
+        "nationality": "Philippines",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Tarshish Garciano",
         "age": 24,
         "position": "Midfielder",
         "nationality": "Philippines",
-        "marketValue": 50000
+        "marketValue": 25000,
+        "rating": 0
       },
       {
-        "playerName": "Dyango Edward Echter",
-        "age": 17,
-        "position": "Defender",
+        "playerName": "Christian Peñalosa",
+        "age": 24,
+        "position": "Midfielder",
         "nationality": "Philippines",
-        "marketValue": 25000
+        "marketValue": 10000,
+        "rating": 0
       },
       {
-        "playerName": "John Emmanuel Logarta",
-        "age": 24,
-        "position": "Defender",
-        "nationality": "Philippines",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "David Asare",
-        "age": 24,
-        "position": "Defender",
-        "nationality": "Cameroon",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Emmanuel Boris Kante",
-        "age": 24,
-        "position": "Defender",
-        "nationality": "Cameroon",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Vincent Aron Saludo",
-        "age": 24,
+        "playerName": "Francis Tacardon",
+        "age": 23,
         "position": "Forward",
         "nationality": "Philippines",
-        "marketValue": 10000
+        "marketValue": 100000,
+        "rating": 0
       },
       {
-        "playerName": "Rodmel Mari Lapitan",
-        "age": 24,
-        "position": "Defender",
-        "nationality": "Philippines",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Ian Chua",
-        "age": 24,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Mauro John Acot",
-        "age": 24,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "William Michael Winter",
-        "age": 24,
+        "playerName": "Kazuha Sudo",
+        "age": 26,
         "position": "Forward",
-        "nationality": "Cameroon",
-        "marketValue": 50000
+        "nationality": "Japan",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Curt Dizon",
+        "age": 31,
+        "position": "Forward",
+        "nationality": "Philippines/England",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Jemar Andrade",
+        "age": 20,
+        "position": "Forward",
+        "nationality": "Philippines",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Rico Andes",
+        "age": 27,
+        "position": "Forward",
+        "nationality": "Philippines",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Koki Narita",
+        "age": 31,
+        "position": "Forward",
+        "nationality": "Japan",
+        "marketValue": 75000,
+        "rating": 0
       }
     ]
   }
