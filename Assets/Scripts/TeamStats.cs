@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TeamStats : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class TeamStats : MonoBehaviour
     public int teamRating;
     public int squadSize;
     public float squadValue;
+
+    public string logoPath;
 
     public void UpdateStats(int goalsForMatch, int goalsAgainstMatch)
     {
@@ -37,5 +40,20 @@ public class TeamStats : MonoBehaviour
         {
             losses++;
         }
+    }
+
+    public void SelectTeam()
+    {
+        PlayerPrefs.SetString("SelectedTeam", teamName);
+        PlayerPrefs.SetInt("SquadNumber", squadSize);
+        PlayerPrefs.SetFloat("SquadValue", squadValue);
+        PlayerPrefs.SetInt("TeamRating", teamRating);
+
+        PlayerPrefs.SetString("TeamLogoPath", "Clubs/" + teamLogo.name);
+       
+
+        PlayerPrefs.Save();
+
+        SceneManager.LoadScene("DashboardScene");
     }
 }

@@ -1,11 +1,16 @@
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
+using UnityEngine.UI;
 
 public class PlayerManager : MonoBehaviour
 {
     public MultiTeamDatabaseLoader databaseLoader; // Reference to the loader
-    public string selectedTeamName;                // Name of the team to fetch
-    private List<PlayerData> teamPlayers;          // List of players from selected team
+    private string selectedTeamName;                // Name of the team to fetch
+    private List<PlayerData> teamPlayers;
+    public GameObject playerDataPrefab;
+    public GameObject playersUI;
+    public GameObject rowHeaderPrefab;
 
     void Start()
     {
@@ -18,11 +23,7 @@ public class PlayerManager : MonoBehaviour
                 teamPlayers = team.players;
                 Debug.Log($"Loaded {teamPlayers.Count} players for {selectedTeamName}");
 
-                // Example: Log player names
-                foreach (var player in teamPlayers)
-                {
-                    Debug.Log($"Player: {player.playerName}, Rating: {player.rating}, Age: {player.age}");
-                }
+                DisplayPlayers(selectedTeamName);
             }
             else
             {
@@ -32,6 +33,49 @@ public class PlayerManager : MonoBehaviour
         else
         {
             Debug.LogWarning("DatabaseLoader or team name is missing.");
+        }
+    }
+
+    void CreatePlayerPrefab(PlayerData playerData)
+    {
+        GameObject playerDataUI = Instantiate(playerDataPrefab);
+
+        Button simulateButton = playerDataUI.GetComponentInChildren<Button>();
+        if (simulateButton != null)
+        {
+            simulateButton.interactable = false;
+
+            ColorBlock colors = simulateButton.colors;
+            colors.colorMultiplier = 5f;
+            colors.normalColor = colors.normalColor;
+            simulateButton.colors = colors;
+        }
+
+        playerDataUI.transform.SetParent(playersUI.transform, false);
+        TextMeshProUGUI[] textComponents = playerDataUI.GetComponentsInChildren<TextMeshProUGUI>();
+
+        if (textComponents.Length >= 4)
+        {
+            textComponents[0].text = playerData.playerName;
+            textComponents[1].text = playerData.position;
+            textComponents[2].text = playerData.rating.ToString();
+            textComponents[3].text = playerData.age.ToString();
+        }
+        else
+        {
+            Debug.LogWarning("Prefab does not have enough TextMeshProUGUI components.");
+        }
+    }
+
+    private void DisplayPlayers(string teamName)
+    {
+        if (rowHeaderPrefab != null && playersUI != null)
+        {
+            GameObject header = Instantiate(rowHeaderPrefab, playersUI.transform, false);
+        }
+        foreach (var player in teamPlayers)
+        {
+            CreatePlayerPrefab(player);
         }
     }
 }

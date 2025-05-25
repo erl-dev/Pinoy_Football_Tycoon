@@ -2,102 +2,284 @@
     "teamName": "Maharlika Taguig FC",
     "players": [
       {
-        "playerName": "Henri Bandeken",
-        "age": 35,
-        "position": "Goalkeeper",
-        "nationality": "Cameroon",
-        "marketValue": 50000
+        "playerName": "Kenry Balobo",
+        "age": 26,
+        "position": "GK",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
       },
       {
-        "playerName": "Javier Fernando Coscolluela",
+        "playerName": "Javi Coscolluela",
         "age": 28,
-        "position": "Goalkeeper",
+        "position": "GK",
         "nationality": "Philippines",
-        "marketValue": 50000
+        "marketValue": 10000,
+        "rating": 0
       },
       {
-        "playerName": "Miggy Clarino",
+        "playerName": "Mateo Veloso",
+        "age": 16,
+        "position": "GK",
+        "nationality": "Philippines/Spain",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Terence Smith",
+        "age": 33,
+        "position": "DF",
+        "nationality": "Barbados/Canada",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Enzo Lucindo",
+        "age": 21,
+        "position": "DF",
+        "nationality": "Philippines",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Ryan Hermida",
+        "age": 23,
+        "position": "DF",
+        "nationality": "Philippines",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Shayan Charalaghi",
+        "age": 25,
+        "position": "DF",
+        "nationality": "U.S.A.",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Santino Rosales",
+        "age": 24,
+        "position": "DF",
+        "nationality": "Philippines",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Ting-Hao Chen",
+        "age": 24,
+        "position": "DF",
+        "nationality": "Chinese Taipei",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Chun-Hsiang Yu",
+        "age": 26,
+        "position": "DF",
+        "nationality": "Chinese Taipei",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Cooper Ross",
+        "age": 18,
+        "position": "DF",
+        "nationality": "Australia",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Chun-Cheng Wang",
+        "age": 19,
+        "position": "DF",
+        "nationality": "Chinese Taipei",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Bryan Palpal-Latoc",
+        "age": 22,
+        "position": "DF",
+        "nationality": "Philippines/U.S.A.",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "John Renz Saldivar",
+        "age": 27,
+        "position": "DF",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Kai-Hsaing Lin",
+        "age": 27,
+        "position": "DF",
+        "nationality": "Chinese Taipei",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Caelan McLeod",
+        "age": 22,
+        "position": "DF",
+        "nationality": "Philippines/England",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Miguel De Mesa",
+        "age": 23,
+        "position": "DF",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Brando Soliman",
+        "age": 21,
+        "position": "DF",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Wei-Ting Lin",
+        "age": 18,
+        "position": "MF",
+        "nationality": "Chinese Taipei",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Ahmad Saidy",
         "age": 28,
-        "position": "Centre-Back",
-        "nationality": "Philippines",
-        "marketValue": 25000
-      },
-      {
-        "playerName": "David Basa",
-        "age": 36,
-        "position": "Centre-Back",
-        "nationality": "Philippines",
-        "marketValue": 20000
-      },
-      {
-        "playerName": "Ian Clarino",
-        "age": 29,
-        "position": "Centre-Back",
-        "nationality": "Philippines",
-        "marketValue": 20000
-      },
-      {
-        "playerName": "Ousman Jeng",
-        "age": 29,
-        "position": "Centre-Back",
+        "position": "MF",
         "nationality": "Gambia",
-        "marketValue": 20000
+        "marketValue": 75000,
+        "rating": 0
       },
       {
-        "playerName": "Ojay Clarino",
-        "age": 34,
-        "position": "Right-Back",
-        "nationality": "Philippines",
-        "marketValue": 20000
-      },
-      {
-        "playerName": "Michael Menzi",
+        "playerName": "Jorrel Aristorenas",
         "age": 31,
-        "position": "Right-Back",
-        "nationality": "Philippines",
-        "marketValue": 20000
-      },
-      {
-        "playerName": "Ryan Fermin",
-        "age": 28,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 20000
-      },
-      {
-        "playerName": "Seong-min Kim",
-        "age": 38,
-        "position": "Defensive Midfield",
-        "nationality": "South Korea",
-        "marketValue": 20000
+        "position": "MF",
+        "nationality": "Philippines/England",
+        "marketValue": 50000,
+        "rating": 0
       },
       {
         "playerName": "Brandon Zambrano",
         "age": 29,
-        "position": "Central Midfield",
-        "nationality": "United States",
-        "marketValue": 75000
+        "position": "MF",
+        "nationality": "U.S.A.",
+        "marketValue": 25000,
+        "rating": 0
       },
       {
-        "playerName": "Diego Aspiras",
+        "playerName": "Nathan Rilloraza",
+        "age": 22,
+        "position": "MF",
+        "nationality": "Philippines/U.S.A.",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Marvin Angeles",
+        "age": 34,
+        "position": "MF",
+        "nationality": "Philippines/Italy",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Kaito Kita",
         "age": 21,
-        "position": "Defensive Midfield",
-        "nationality": "Philippines",
-        "marketValue": 100000
+        "position": "MF",
+        "nationality": "Japan",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Sebastian Tsai Nielsen",
+        "age": 22,
+        "position": "MF",
+        "nationality": "Denmark/Chinese Taipei",
+        "marketValue": 0,
+        "rating": 0
       },
       {
         "playerName": "Darlton Digha",
         "age": 27,
-        "position": "Left Winger",
+        "position": "FW",
         "nationality": "Cameroon",
-        "marketValue": 100000
+        "marketValue": 75000,
+        "rating": 0
       },
       {
-        "playerName": "Kenry Balobo",
-        "age": 26,
-        "position": "Goalkeeper",
+        "playerName": "Gab Abo",
+        "age": 25,
+        "position": "FW",
         "nationality": "Philippines",
-        "marketValue": 50000
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Chi-Hsun Chen",
+        "age": 19,
+        "position": "FW",
+        "nationality": "Chinese Taipei",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Serge Kaole",
+        "age": 34,
+        "position": "FW",
+        "nationality": "Cameroon",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Gun-oh Kim",
+        "age": 21,
+        "position": "FW",
+        "nationality": "South Korea",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Desmond Ngai",
+        "age": 28,
+        "position": "FW",
+        "nationality": "Cameroon",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Isaac Anoh",
+        "age": 19,
+        "position": "FW",
+        "nationality": "Cote d'Ivoire",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Bency Villanueva",
+        "age": 29,
+        "position": "FW",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Kano Sota",
+        "age": 20,
+        "position": "FW",
+        "nationality": "Japan",
+        "marketValue": 0,
+        "rating": 0
       }
     ]
   }

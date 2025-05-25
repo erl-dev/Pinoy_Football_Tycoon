@@ -362,6 +362,7 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Programming/2022.3.60f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Programming/2022.3.60f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/ClubManagementUI.cs"
 "Assets/Scripts/CupScheduleManager.cs"
 "Assets/Scripts/CupScheduler.cs"
 "Assets/Scripts/DashboardManager.cs"

@@ -4,7 +4,7 @@
       {
         "playerName": "Jun Badelic",
         "age": 30,
-        "position": "Goalkeeper",
+        "position": "GK",
         "nationality": "Philippines",
         "marketValue": 100000,
         "rating": 0
@@ -12,7 +12,7 @@
       {
         "playerName": "Ace Villanueva",
         "age": 29,
-        "position": "Goalkeeper",
+        "position": "GK",
         "nationality": "Philippines",
         "marketValue": 0,
         "rating": 0
@@ -20,7 +20,7 @@
       {
         "playerName": "Joseph Ceniza",
         "age": 25,
-        "position": "Goalkeeper",
+        "position": "GK",
         "nationality": "Philippines",
         "marketValue": 0,
         "rating": 0
@@ -28,7 +28,7 @@
       {
         "playerName": "Gabriel Silva",
         "age": 29,
-        "position": "Defender",
+        "position": "D",
         "nationality": "Brazil",
         "marketValue": 125000,
         "rating": 0
@@ -36,7 +36,7 @@
       {
         "playerName": "Jaime Rosquillo",
         "age": 22,
-        "position": "Defender",
+        "position": "D",
         "nationality": "Philippines",
         "marketValue": 100000,
         "rating": 0
@@ -44,7 +44,7 @@
       {
         "playerName": "Charles Dabao III",
         "age": 27,
-        "position": "Defender",
+        "position": "D",
         "nationality": "Philippines",
         "marketValue": 75000,
         "rating": 0
@@ -52,7 +52,7 @@
       {
         "playerName": "Göktuğ Demiroğlu",
         "age": 25,
-        "position": "Defender",
+        "position": "D",
         "nationality": "Turkey",
         "marketValue": 25000,
         "rating": 0
@@ -60,7 +60,7 @@
       {
         "playerName": "Erich Orale",
         "age": 25,
-        "position": "Defender",
+        "position": "D",
         "nationality": "Philippines",
         "marketValue": 10000,
         "rating": 0
@@ -68,7 +68,7 @@
       {
         "playerName": "Elijah Liao",
         "age": 25,
-        "position": "Defender",
+        "position": "D",
         "nationality": "Philippines",
         "marketValue": 0,
         "rating": 0
@@ -76,7 +76,7 @@
       {
         "playerName": "Baris Tasci",
         "age": 26,
-        "position": "Defender",
+        "position": "D",
         "nationality": "Philippines/Turkey",
         "marketValue": 50000,
         "rating": 0
@@ -84,7 +84,7 @@
       {
         "playerName": "Kamil Amirul",
         "age": 21,
-        "position": "Defender",
+        "position": "D",
         "nationality": "Philippines",
         "marketValue": 125000,
         "rating": 0
@@ -92,7 +92,7 @@
       {
         "playerName": "Roberto Corsame",
         "age": 28,
-        "position": "Defender",
+        "position": "D",
         "nationality": "Philippines",
         "marketValue": 75000,
         "rating": 0
@@ -100,7 +100,7 @@
       {
         "playerName": "Paolo Pavone",
         "age": 32,
-        "position": "Defender",
+        "position": "D",
         "nationality": "Philippines/U.S.A.",
         "marketValue": 50000,
         "rating": 0
@@ -108,7 +108,7 @@
       {
         "playerName": "Rhino Goutier",
         "age": 21,
-        "position": "Midfielder",
+        "position": "M",
         "nationality": "Philippines/Netherlands",
         "marketValue": 125000,
         "rating": 0
@@ -116,7 +116,7 @@
       {
         "playerName": "Marius Koré",
         "age": 25,
-        "position": "Midfielder",
+        "position": "M",
         "nationality": "Côte d'Ivoire",
         "marketValue": 100000,
         "rating": 0
@@ -124,7 +124,7 @@
       {
         "playerName": "Ryoo Togashi",
         "age": 27,
-        "position": "Midfielder",
+        "position": "M",
         "nationality": "Japan",
         "marketValue": 125000,
         "rating": 0
@@ -132,7 +132,7 @@
       {
         "playerName": "Daniel Gadia",
         "age": 29,
-        "position": "Midfielder",
+        "position": "M",
         "nationality": "Philippines",
         "marketValue": 100000,
         "rating": 0
@@ -140,7 +140,7 @@
       {
         "playerName": "Lorenzo Genco",
         "age": 24,
-        "position": "Midfielder",
+        "position": "M",
         "nationality": "Philippines",
         "marketValue": 50000,
         "rating": 0
@@ -148,7 +148,7 @@
       {
         "playerName": "Leo Maquiling",
         "age": 24,
-        "position": "Midfielder",
+        "position": "M",
         "nationality": "Philippines",
         "marketValue": 0,
         "rating": 0
@@ -156,7 +156,7 @@
       {
         "playerName": "Joshua Broce",
         "age": 25,
-        "position": "Midfielder",
+        "position": "M",
         "nationality": "Philippines",
         "marketValue": 0,
         "rating": 0
@@ -164,7 +164,7 @@
       {
         "playerName": "JB Borlongan",
         "age": 26,
-        "position": "Forward",
+        "position": "F",
         "nationality": "Philippines",
         "marketValue": 100000,
         "rating": 0
@@ -172,7 +172,7 @@
       {
         "playerName": "Kainoa Bailey",
         "age": 29,
-        "position": "Forward",
+        "position": "F",
         "nationality": "Philippines/U.S.A.",
         "marketValue": 100000,
         "rating": 0
@@ -180,7 +180,7 @@
       {
         "playerName": "Magson Dourado",
         "age": 33,
-        "position": "Forward",
+        "position": "F",
         "nationality": "Brazil",
         "marketValue": 100000,
         "rating": 0
@@ -188,7 +188,7 @@
       {
         "playerName": "Gutho Mijland",
         "age": 28,
-        "position": "Forward",
+        "position": "F",
         "nationality": "Netherlands/Suriname",
         "marketValue": 200000,
         "rating": 0
@@ -196,7 +196,7 @@
       {
         "playerName": "Rintaro Hama",
         "age": 25,
-        "position": "Forward",
+        "position": "F",
         "nationality": "Japan",
         "marketValue": 150000,
         "rating": 0
@@ -220,7 +220,7 @@
       {
         "playerName": "Abou Sy",
         "age": 29,
-        "position": "Forward",
+        "position": "F",
         "nationality": "Senegal",
         "marketValue": 175000,
         "rating": 0
@@ -228,7 +228,7 @@
       {
         "playerName": "Hiromasa Ishikawa",
         "age": 22,
-        "position": "Forward",
+        "position": "F",
         "nationality": "Japan",
         "marketValue": 50000,
         "rating": 0

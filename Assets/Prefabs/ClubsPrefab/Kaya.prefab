@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   teamName: Kaya FC - Iloilo
-  teamLogo: {fileID: 21300000, guid: 953b2e4fcae5e2443be12e696c8db997, type: 3}
+  teamLogo: {fileID: 21300000, guid: 26bc0e681492bbb4d8ff9c7e69b3b2d9, type: 3}
   matchesPlayed: 1
   wins: 0
   draws: 0
@@ -57,3 +57,4 @@ MonoBehaviour:
   teamRating: 0
   squadSize: 0
   squadValue: 0
+  logoPath: 
