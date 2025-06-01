@@ -2,228 +2,228 @@
     "teamName": "Stallion Laguna FC",
     "players": [
       {
-        "playerName": "Alfredo Cortez",
-        "age": 26,
-        "position": "Goalkeeper",
-        "nationality": "United States",
-        "marketValue": 100000,
-        "rating": 60
-      },
-      {
-        "playerName": "Hayeson Pepito",
+        "playerName": "Roberto Llamas",
         "age": 30,
-        "position": "Goalkeeper",
-        "nationality": "Philippines",
-        "marketValue": 0,
-        "rating": 60
+        "position": "GK",
+        "nationality": "",
+        "marketValue": 75000,
+        "rating": 0
       },
       {
-        "playerName": "Vicente Valdez III",
-        "age": 23,
-        "position": "Goalkeeper",
-        "nationality": "Philippines",
-        "marketValue": 0,
-        "rating": 60
-      },
-      {
-        "playerName": "Miguel de Mesa",
-        "age": 22,
-        "position": "Defender",
-        "nationality": "Philippines",
-        "marketValue": 50000,
-        "rating": 60
+        "playerName": "Abraham Placito",
+        "age": 31,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 125000,
+        "rating": 0
       },
       {
         "playerName": "Matthew Nierras",
         "age": 32,
-        "position": "Defender",
-        "nationality": "Philippines",
-        "marketValue": 50000,
-        "rating": 60
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 75000,
+        "rating": 0
       },
       {
-        "playerName": "Hayato Kame",
-        "age": 34,
-        "position": "Defender",
-        "nationality": "Japan",
-        "marketValue": 50000,
-        "rating": 60
+        "playerName": "Stephen Halm",
+        "age": 20,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Gabriel Claudio",
+        "age": 25,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Stephen Banor",
+        "age": 22,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Kouichi Belgira",
+        "age": 28,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Dexter Casing",
+        "age": 23,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
       },
       {
         "playerName": "Charles Pickering",
         "age": 23,
-        "position": "Defender",
-        "nationality": "Philippines",
-        "marketValue": 50000,
-        "rating": 60
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 25000,
+        "rating": 0
       },
       {
-        "playerName": "Gabriel Silva",
-        "age": 29,
-        "position": "Defender",
-        "nationality": "Brazil",
-        "marketValue": 100000,
-        "rating": 60
-      },
-      {
-        "playerName": "Angelo Marasigan",
-        "age": 33,
-        "position": "Defender",
-        "nationality": "Philippines",
-        "marketValue": 50000,
-        "rating": 60
-      },
-      {
-        "playerName": "Paolo Pavone",
-        "age": 25,
-        "position": "Defender",
-        "nationality": "Philippines",
-        "marketValue": 50000,
-        "rating": 60
-      },
-      {
-        "playerName": "Ken Pryde",
-        "age": 23,
-        "position": "Defender",
-        "nationality": "United States",
-        "marketValue": 50000,
-        "rating": 60
-      },
-      {
-        "playerName": "Abraham Placito",
-        "age": 30,
-        "position": "Defender",
-        "nationality": "Philippines",
-        "marketValue": 50000,
-        "rating": 60
-      },
-      {
-        "playerName": "Ezequiel Cirigliano",
-        "age": 33,
-        "position": "Midfielder",
-        "nationality": "Argentina",
-        "marketValue": 100000,
-        "rating": 60
-      },
-      {
-        "playerName": "Ruben Doctora",
-        "age": 38,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 0,
-        "rating": 60
-      },
-      {
-        "playerName": "Spencer Galasa",
+        "playerName": "David Yeboah",
         "age": 27,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 50000,
-        "rating": 60
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
       },
       {
-        "playerName": "Julian Stifano",
-        "age": 26,
-        "position": "Midfielder",
-        "nationality": "Argentina",
+        "playerName": "Ricardo Sendra",
+        "age": 37,
+        "position": "MF",
+        "nationality": "",
         "marketValue": 50000,
-        "rating": 60
+        "rating": 0
       },
       {
-        "playerName": "Jesus Salazar",
-        "age": 23,
-        "position": "Midfielder",
-        "nationality": "United States",
-        "marketValue": 50000,
-        "rating": 60
-      },
-      {
-        "playerName": "Leonardo Nogueira",
-        "age": 28,
-        "position": "Midfielder",
-        "nationality": "Brazil",
-        "marketValue": 50000,
-        "rating": 60
-      },
-      {
-        "playerName": "Jo Bedia",
-        "age": 30,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 50000,
-        "rating": 60
+        "playerName": "Sam Azimzadeh Tabrizi",
+        "age": 22,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
       },
       {
         "playerName": "Christian Schaffner",
         "age": 24,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 50000,
-        "rating": 60
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 100000,
+        "rating": 0
       },
       {
-        "playerName": "Jacob Peña",
+        "playerName": "Mark Hartmann",
+        "age": 33,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Yuki Takatoku",
+        "age": 30,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Charlie Beaton",
+        "age": 30,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Masaya Watanabe",
         "age": 22,
-        "position": "Midfielder",
-        "nationality": "Philippines",
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Mauro Acot",
+        "age": 27,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Emmanuel Otuyemi",
+        "age": 27,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Stephan Schröck",
+        "age": 38,
+        "position": "MF",
+        "nationality": "",
         "marketValue": 50000,
-        "rating": 60
+        "rating": 0
       },
       {
-        "playerName": "Aoi Isami",
-        "age": 29,
-        "position": "Midfielder",
-        "nationality": "Japan",
+        "playerName": "OJ Porteria",
+        "age": 31,
+        "position": "FW",
+        "nationality": "",
         "marketValue": 50000,
-        "rating": 60
+        "rating": 0
       },
       {
-        "playerName": "Théo",
-        "age": 24,
-        "position": "Forward",
-        "nationality": "Brazil",
-        "marketValue": 100000,
-        "rating": 60
+        "playerName": "Fahmi Ibrahim",
+        "age": 25,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 25000,
+        "rating": 0
       },
       {
-        "playerName": "Griffin McDaniel",
-        "age": 24,
-        "position": "Forward",
-        "nationality": "United States",
-        "marketValue": 100000,
-        "rating": 60
-      },
-      {
-        "playerName": "Cristián Ivanobski",
-        "age": 35,
-        "position": "Forward",
-        "nationality": "Argentina",
-        "marketValue": 50000,
-        "rating": 60
+        "playerName": "Robert Quaye",
+        "age": 23,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
       },
       {
         "playerName": "Juan Trujillo",
         "age": 25,
-        "position": "Forward",
-        "nationality": "Colombia",
-        "marketValue": 50000,
-        "rating": 60
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 100000,
+        "rating": 0
       },
       {
-        "playerName": "Junior Ngong Sam",
-        "age": 27,
-        "position": "Forward",
-        "nationality": "Cameroon",
-        "marketValue": 50000,
-        "rating": 60
+        "playerName": "Alonzo Del Mundo",
+        "age": 25,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 25000,
+        "rating": 0
       },
       {
-        "playerName": "Magson Dourado",
-        "age": 33,
-        "position": "Forward",
-        "nationality": "Brazil",
+        "playerName": "Finn McDaniel",
+        "age": 25,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "MJ Libre",
+        "age": 25,
+        "position": "FW",
+        "nationality": "",
         "marketValue": 50000,
-        "rating": 60
+        "rating": 0
+      },
+      {
+        "playerName": "Deane Mountney",
+        "age": 20,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
       }
     ]
   }

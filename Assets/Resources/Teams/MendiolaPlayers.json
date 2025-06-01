@@ -4,136 +4,268 @@
       {
         "playerName": "Joshua Jalog",
         "age": 23,
-        "position": "Goalkeeper",
-        "nationality": "Philippines",
-        "marketValue": 10000
+        "position": "GK",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
       },
       {
         "playerName": "Angelo Simtoco",
         "age": 24,
-        "position": "Goalkeeper",
-        "nationality": "Philippines",
-        "marketValue": 0
+        "position": "GK",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
       },
       {
         "playerName": "Edison Castro",
         "age": 24,
-        "position": "Goalkeeper",
-        "nationality": "United States",
-        "marketValue": 0
+        "position": "GK",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
       },
       {
         "playerName": "Marlle Habila",
         "age": 29,
-        "position": "Centre-Back",
-        "nationality": "Ghana",
-        "marketValue": 100000
-      },
-      {
-        "playerName": "Nick Fuzesi",
-        "age": 24,
-        "position": "Centre-Back",
-        "nationality": "Canada",
-        "marketValue": 50000
-      },
-      {
-        "playerName": "Behnam Habibi",
-        "age": 35,
-        "position": "Centre-Back",
-        "nationality": "Iran",
-        "marketValue": 50000
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 50000,
+        "rating": 0
       },
       {
         "playerName": "Yuta Tochigi",
-        "age": 22,
-        "position": "Centre-Back",
-        "nationality": "Japan",
-        "marketValue": 50000
+        "age": 29,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
       },
       {
         "playerName": "Yuan Reña",
         "age": 22,
-        "position": "Centre-Back",
-        "nationality": "Philippines",
-        "marketValue": 25000
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
       },
       {
         "playerName": "Gustavo Silva",
         "age": 36,
-        "position": "Centre-Back",
-        "nationality": "Brazil",
-        "marketValue": 0
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Nick Fuzesi",
+        "age": 24,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
       },
       {
         "playerName": "Nathan Sablan",
         "age": 31,
-        "position": "Centre-Back",
-        "nationality": "Guam",
-        "marketValue": 0
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
       },
       {
         "playerName": "Gideon Obetta",
         "age": 19,
-        "position": "Centre-Back",
-        "nationality": "Nigeria",
-        "marketValue": 0
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
       },
       {
         "playerName": "Ahmed Hassan Al-Arqan",
         "age": 21,
-        "position": "Centre-Back",
-        "nationality": "Palestine",
-        "marketValue": 0
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Elljhone Rasonable",
+        "age": 25,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Timothy Uy",
+        "age": 22,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
       },
       {
         "playerName": "Gansmari Antipuesto",
         "age": 27,
-        "position": "Left-Back",
-        "nationality": "Philippines",
-        "marketValue": 50000
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
       },
       {
-        "playerName": "Elljhone Rasonable",
-        "age": 22,
-        "position": "Left-Back",
-        "nationality": "Philippines",
-        "marketValue": 0
-      },
-      {
-        "playerName": "Amir Aningalan",
-        "age": 20,
-        "position": "Right-Back",
-        "nationality": "Philippines",
-        "marketValue": 0
+        "playerName": "Michael Simms",
+        "age": 34,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
       },
       {
         "playerName": "Kieth Edulan",
+        "age": 26,
+        "position": "DF",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Christian Lapas",
+        "age": 26,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Isaac Doka Mweru",
+        "age": 29,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Seo-yeom Park",
+        "age": 24,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Danyal Oraji",
+        "age": 19,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Milad Behgandom",
+        "age": 36,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Hamed Hajimehdi",
+        "age": 44,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Habes Mubarak",
+        "age": 24,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Ju-yeop Lee",
+        "age": 21,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Tarsicio Onyebuchi",
+        "age": 24,
+        "position": "MF",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
+      },
+      {
+        "playerName": "Ramin Sultani",
+        "age": 21,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Allan Kiggundu",
+        "age": 20,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Robert Gingichashvili",
+        "age": 26,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Irineo Sibal III",
+        "age": 29,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Ibrahim Pam",
+        "age": 22,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Shahab Pira",
         "age": 23,
-        "position": "Right-Back",
-        "nationality": "Philippines",
-        "marketValue": 0
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 25000,
+        "rating": 0
       },
       {
-        "playerName": "David Yeboah",
-        "age": 25,
-        "position": "Right-Back",
-        "nationality": "Ghana",
-        "marketValue": 0
+        "playerName": "Ruben Doctora",
+        "age": 39,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
       },
       {
-        "playerName": "Bryll Espina",
-        "age": 0,
-        "position": "Midfielder",
-        "nationality": "Philippines",
-        "marketValue": 0
-      },
-      {
-        "playerName": "Sylver Pormento",
-        "age": 17,
-        "position": "Defensive Midfield",
-        "nationality": "Philippines",
-        "marketValue": 0
+        "playerName": "Reggie Sulit",
+        "age": 24,
+        "position": "FW",
+        "nationality": "",
+        "marketValue": 10000,
+        "rating": 0
       }
+      
     ]
   }
   

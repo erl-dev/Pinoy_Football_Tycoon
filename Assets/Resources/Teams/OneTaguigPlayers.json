@@ -2,32 +2,212 @@
     "teamName": "One Taguig FC",
     "players": [
       {
-        "playerName": "Player 1",
+        "playerName": "Quincy Kammeraad",
+        "age": 24,
+        "position": "GK",
+        "nationality": "Philippines/Netherlands",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Henri Bandeken",
+        "age": 35,
+        "position": "GK",
+        "nationality": "Senegal",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Shoma Sato",
+        "age": 25,
+        "position": "DF",
+        "nationality": "Japan",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Nahuel Amarilla",
         "age": 29,
-        "position": "Goalkeeper",
-        "nationality": "Philippines",
-        "marketValue": 75000
+        "position": "DF",
+        "nationality": "Argentina",
+        "marketValue": 100000,
+        "rating": 0
       },
       {
-        "playerName": "Player 2",
-        "age": 28,
-        "position": "Defender",
-        "nationality": "Philippines",
-        "marketValue": 111000
+        "playerName": "Carlie de Murga",
+        "age": 36,
+        "position": "DF",
+        "nationality": "Philippines/Spain",
+        "marketValue": 0,
+        "rating": 0
       },
       {
-        "playerName": "Player 3",
+        "playerName": "Daisuke Sato",
+        "age": 30,
+        "position": "DF",
+        "nationality": "Philippines",
+        "marketValue": 150000,
+        "rating": 0
+      },
+      {
+        "playerName": "Yrick Gallantes",
+        "age": 24,
+        "position": "DF",
+        "nationality": "Philippines/Scotland",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Joshua Dutosme",
         "age": 29,
-        "position": "Midfielder",
+        "position": "DF",
         "nationality": "Philippines",
-        "marketValue": 105000
+        "marketValue": 50000,
+        "rating": 0
       },
       {
-        "playerName": "Player 4",
+        "playerName": "Mahmoud Ali",
+        "age": 32,
+        "position": "DF",
+        "nationality": "Philippines/Egypt",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "So Omae",
+        "age": 30,
+        "position": "MF",
+        "nationality": "Japan",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Solomon Obinna Okereke",
         "age": 27,
-        "position": "Forward",
+        "position": "MF",
+        "nationality": "Nigeria",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Arnel Amita",
+        "age": 30,
+        "position": "MF",
         "nationality": "Philippines",
-        "marketValue": 83000
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Omid Nazari",
+        "age": 34,
+        "position": "MF",
+        "nationality": "Iran/Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Fritz Chua",
+        "age": 16,
+        "position": "MF",
+        "nationality": "Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Dennis Chung",
+        "age": 24,
+        "position": "MF",
+        "nationality": "Philippines/Germany",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Patrick Lingg",
+        "age": 23,
+        "position": "MF",
+        "nationality": "Switzerland/Philippines",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Naoto Hiraishi",
+        "age": 32,
+        "position": "FW",
+        "nationality": "Japan",
+        "marketValue": 75000,
+        "rating": 0
+      },
+      {
+        "playerName": "Patrick Grogg",
+        "age": 22,
+        "position": "FW",
+        "nationality": "Switzerland/Philippines",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Yusuke Unoki",
+        "age": 29,
+        "position": "FW",
+        "nationality": "Japan",
+        "marketValue": 25000,
+        "rating": 0
+      },
+      {
+        "playerName": "Oliver Bias",
+        "age": 23,
+        "position": "FW",
+        "nationality": "Philippines/Germany",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Peter Nergaard",
+        "age": 34,
+        "position": "FW",
+        "nationality": "Norway",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Tsukasa Shimomura",
+        "age": 27,
+        "position": "FW",
+        "nationality": "Japan",
+        "marketValue": 125000,
+        "rating": 0
+      },
+      {
+        "playerName": "Junior Ngong Sam",
+        "age": 27,
+        "position": "FW",
+        "nationality": "Senegal",
+        "marketValue": 100000,
+        "rating": 0
+      },
+      {
+        "playerName": "Andres Aldeguer",
+        "age": 21,
+        "position": "FW",
+        "nationality": "Philippines",
+        "marketValue": 50000,
+        "rating": 0
+      },
+      {
+        "playerName": "Nicholas Simpson",
+        "age": 25,
+        "position": "FW",
+        "nationality": "New Zealand",
+        "marketValue": 0,
+        "rating": 0
+      },
+      {
+        "playerName": "Kofi Kordzi",
+        "age": 30,
+        "position": "FW",
+        "nationality": "Senegal",
+        "marketValue": 0,
+        "rating": 0
       }
     ]
   }
